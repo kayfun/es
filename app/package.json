@@ -5,8 +5,8 @@
 	"keywords": [],
 	"author": "",
 	"scripts": {
-		"test": "node ./index.js",
-		"start": "node ./server.js"
+		"test": "node ./test.js",
+		"start": "node ./index.js"
 	},
 	"license": "ISC",
 	"dependencies": {
