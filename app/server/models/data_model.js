@@ -26,7 +26,7 @@ class DataModel {
                 return index;
             }
         };
-        return index;
+        return -1;
     }
 
     save(obj){
